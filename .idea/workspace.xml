@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07e4a9c-96ae-4916-a3fb-789c05e9cd2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Playground/mongodb-delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playground/mongodb-updatejs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground/mongodb-find.js" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/mongodb-find.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,22 +28,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="4" />
+          <entry key="js" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="4" />
+          <entry key="JavaScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1875" />
+          <entry key="js" value="2037" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1875" />
+          <entry key="JavaScript" value="2037" />
         </counts>
       </usages-collector>
     </session>
@@ -72,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Playground/mongodb-delete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state>
+              <caret selection-end-line="33" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Playground/mongodb-updatejs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -100,6 +108,7 @@
         <option value="$PROJECT_DIR$/Playground/mongodb-connect.js" />
         <option value="$PROJECT_DIR$/Playground/mongodb-find.js" />
         <option value="$PROJECT_DIR$/Playground/mongodb-delete.js" />
+        <option value="$PROJECT_DIR$/Playground/mongodb-updatejs.js" />
       </list>
     </option>
   </component>
@@ -190,12 +199,12 @@
       <workItem from="1536809095696" duration="1959000" />
       <workItem from="1536903998989" duration="1747000" />
       <workItem from="1536975176660" duration="289000" />
-      <workItem from="1537161640144" duration="576000" />
+      <workItem from="1537161640144" duration="1249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4571000" />
+    <option name="totallyTimeSpent" value="5244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1485" y="53" width="1260" height="737" extended-state="0" />
@@ -248,8 +257,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Playground/mongodb-delete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state>
+          <caret selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playground/mongodb-updatejs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
         </state>
       </provider>
     </entry>
